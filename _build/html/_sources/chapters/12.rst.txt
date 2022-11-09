@@ -1,0 +1,26 @@
+Chapter 12: Statistics and Probability
+=========================================
+
+Lesson 12-1: Samples and Studies
+------------------------------------------
+
+Lesson 12-2: Statistics and Parameters
+------------------------------------------
+
+Lesson 12-3: Distributions of Data
+------------------------------------------
+
+Lesson 12-4: Comparing Sets of Data
+------------------------------------------
+
+Lesson 12-5: Simulations
+------------------------------------------
+
+Lesson 12-6: Permutations and Combinations
+------------------------------------------
+
+Lesson 12-7: Probability of Compound Events
+--------------------------------------------------------------
+
+Lesson 12-8: Probability Distributions
+------------------------------------------

@@ -1,0 +1,27 @@
+Chapter 4: Equations of Linear Functions
+================================================
+
+Chapter Summery
+
+----
+
+Lesson 4-1: Graphing Equations in Slope-Intercept Form
+--------------------------------------------------------------
+
+Lesson 4-2: Writing Equations in Slope-Intercept Form
+--------------------------------------------------------------
+
+Lesson 4-3: Writing Equations in Point-Slope Form
+--------------------------------------------------------------
+
+Lesson 4-4: Parallel and Perpendicular Lines
+--------------------------------------------------------------
+
+Lesson 4-5: Scatter Plots and Lines of Fit
+------------------------------------------
+
+Lesson 4-6: Regression and Median-Fit Lines
+--------------------------------------------------------------
+
+Lesson 4-7: Inverse Linear Functions
+------------------------------------------

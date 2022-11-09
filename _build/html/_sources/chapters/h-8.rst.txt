@@ -1,0 +1,33 @@
+Chapter 8: Quadratic Expressions and Equations
+===================================================
+
+Chapter Summery
+
+----
+
+Lesson 8-1: Adding and Subtracting Polynomials
+--------------------------------------------------------------
+
+Lesson 8-2: Multiplying a Polynomial by a Monomial
+--------------------------------------------------------------
+
+Lesson 8-3: Multiplying Polynomials
+------------------------------------------
+
+Lesson 8-4: Special Products
+------------------------------------------
+
+Lesson 8-5: Using the Distributive Property
+--------------------------------------------------------------
+
+Lesson 8-6: Solving x^2 + bx + c = 0
+------------------------------------------
+
+Lesson 8-7: Solving ax^2 + bx + c = 0
+------------------------------------------
+
+Lesson 8-8: Differences of Squares
+------------------------------------------
+
+Lesson 8-9: Perfect Squares
+------------------------------------------
