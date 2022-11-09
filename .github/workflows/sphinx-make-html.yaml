@@ -2,7 +2,7 @@ name: Sphinx Make HTML
 run-name: ${{ github.actor }} is building the HTML
 on: [push]
 jobs:
-  Explore-GitHub-Actions:
+  Install-Compile-Commit:
       runs-on: ubuntu-latest
       steps:
         - uses: actions/checkout@v3
