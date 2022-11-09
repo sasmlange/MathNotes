@@ -11,5 +11,5 @@ jobs:
             python-version: '3.10' 
         - run: |
             pip install sphinx
-            
+            pip install sphinx-book-theme
             make html
