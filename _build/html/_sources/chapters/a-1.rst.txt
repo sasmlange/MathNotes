@@ -39,6 +39,11 @@ Lesson 2: Order of Operations
 
     When it comes to mutilation and division it is done left to right. The same thing is for addiction and subtraction.
 
+.. rubric:: Evaluate an expression
+
+To evaluate an algebraic expression, replace the variables with their values. 
+
+
 Lesson 3: Properties of Numbers
 -------------------------------------
 
