@@ -36,6 +36,10 @@ All you have to do is to change it to slope-intercept form.
 
 An equation for a horizontal line might look like this: :math:`y = 10` or like this :math:`10y = 0x + 7` or even like this :math:`y=67x-7x+6x-66x+8`.
 
+.. note::
+
+    If the number on a line is always a whole number, then you only put dots, no lines.
+
 
 Lesson 4-2: Writing Equations in Slope-Intercept Form
 --------------------------------------------------------------
