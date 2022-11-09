@@ -1,15 +1,43 @@
 Chapter 1: Expressions, Equations, and Functions
 ====================================================
 
-Reveiw chapter 
+This is the review chapter. We have learned everything here in Algebra 1A.
 
 ----
 
 Lesson 1: Variables and Expressions
 -------------------------------------
 
+.. rubric:: Lesson Terms
+
+* An **algebraic expression** consists of sums and/or products of numbers are variables
+* A **variable** is a symbol used to represent unknown values.
+* A **term** is a number, variable, or a product/quotient between a variable and/or a number.
+* **Factor** time **factor** equals **product**.
+* The term **power** refers to exponents. Example: :math:`x^5`
+
+.. rubric:: Verbal expression to algebraic expression
+
+
+Lets say we want to covert *x minis five* into an equation. *x minis five* is the same as *five fewer than x*. Both are the same as :math:`x-5`.
+
+.. rubric:: Algebraic expression to Verbal expression
+
+
+Lets say we want to covert :math:`x-5` into an equation. The easy way is *five minis x*. The more complicated way is *take away 5 from x*
+
 Lesson 2: Order of Operations
 -------------------------------------
+
+.. rubric:: Lesson Terms
+
+
+* To **evaluate** an expression is to solve or find the value of the expression.
+* **PEMDAS** stands for parentheses, exponents, mutilation and division, and addiction and subtraction. This is the order of operations.
+
+.. note:: 
+
+    When it comes to mutilation and division it is done left to right. The same thing is for addiction and subtraction.
 
 Lesson 3: Properties of Numbers
 -------------------------------------

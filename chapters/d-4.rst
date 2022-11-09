@@ -8,6 +8,35 @@ Chapter Summery
 Lesson 4-1: Graphing Equations in Slope-Intercept Form
 --------------------------------------------------------------
 
+.. rubric:: Terms
+
+Slope-Intercept Formula: :math:`y = mx + b`
+
+m is the slope.
+
+b is the y-intercept.
+
+.. rubric:: Graph from a Slope-Intercept Formula formula
+
+#. Put a point at the y-intercept
+#. :math:`m= \frac{rise}{run}` so starting at the y-intercept, go how much the numerator is up and the how much the denominator is to the right. Plot a point there.
+#. Connect the two lines.
+
+.. rubric:: If the formula is not in slope-intercept form
+
+All you have to do is to change it to slope-intercept form.
+
+:math:`3x+2y=6` is the same as :math:`y=- \frac{3}{2}x+3`
+
+.. tip:: 
+    
+    You can also just graph the original formula as it is already in standard form.
+
+.. rubric:: If x is not present or could be removed
+
+An equation for a horizontal line might look like this: :math:`y = 10` or like this :math:`10y = 0x + 7` or even like this :math:`y=67x-7x+6x-66x+8`.
+
+
 Lesson 4-2: Writing Equations in Slope-Intercept Form
 --------------------------------------------------------------
 

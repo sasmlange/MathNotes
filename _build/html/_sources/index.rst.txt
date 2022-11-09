@@ -5,7 +5,7 @@
 
 Welcome to Algebra 1
 =====================================
-This is the page for Max's notes for Algebra 1. Test
+This is the page for Max's notes for Algebra 1.
 
 
 .. toctree::
