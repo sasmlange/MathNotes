@@ -44,11 +44,7 @@ Lesson 4-2: Writing Equations in Slope-Intercept Form
 
 .. math::
 
-    \begin{aligned}
-    \text{maximize} \sum_{j=1}^{n}p_j x_j \\
-    \text{subject to} \sum_{j=1}^{n}w_j x_j \leq c, \\
-    x_j \in \{0,1\}, j = 1, \ldots, n.
-    \end{aligned}
+    1^3
 
 Lesson 4-3: Writing Equations in Point-Slope Form
 --------------------------------------------------------------
