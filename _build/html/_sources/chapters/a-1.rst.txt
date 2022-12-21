@@ -33,19 +33,32 @@ Lesson 2: Order of Operations
 
 
 * To **evaluate** an expression is to solve or find the value of the expression.
-* **PEMDAS** stands for parentheses, exponents, mutilation and division, and addiction and subtraction. This is the order of operations.
+* **PEMDAS** stands for parentheses, exponents, multiplication and division, and addiction and subtraction. This is the order of operations.
 
 .. note:: 
 
-    When it comes to mutilation and division it is done left to right. The same thing is for addiction and subtraction.
+    When it comes to multiplication and division it is done left to right. The same thing is for addiction and subtraction.
 
 .. rubric:: Evaluate an expression
 
-To evaluate an algebraic expression, replace the variables with their values. 
+To evaluate an algebraic expression, replace the variables with their values. For example, if we wanted to find :math:`3x^2+(2y+z^3)` and :math:`y=5, x=4, z=3`, we could substitute the variables in our equation. :math:`3x^2+(2y+z^3)` would now look like: :math:`3 \cdot 4^2+(2 \cdot 5+3^3)`. Using the order of operations we can solve. 
 
 
 Lesson 3: Properties of Numbers
 -------------------------------------
+
+.. rubric:: Lesson Terms
+
+* **Equivalent expressions** are two or more expressions that represent the same number. For example, :math:`7x+2x` is equivalent to :math:`9x`. Therefore, they are equivalent expressions.
+* The **Reflexive Property** is any quantity equal to itself. For example, :math:`a=a` or :math:`4=4`.
+* The **Symmetric Property** is if one quantity equals a second quantity and the second quantity equals the first quantity. For example, if :math:`x=y` then :math:`y=x`.
+* The **Transitive Property** is if one quantity equals a second quantity and the second quantity equals a third quantity, then the first quantity equals the third quantity. For example, if :math:`a=b` and :math:`b=c` then :math:`a=c`.
+*  The **Substitution Property** is a quantity that can be substituted with its equal. For example, if :math:`n=11` then :math:`10n=10 \cdot 11`.
+* **Additive Identity** is where a number plus 0 is still that number. 
+* **Additive Inverse** is where the sum of a number and its opposite is 0.
+* **Multiplicative Identity** is when the product of a number and 1 is still the number. For example, :math:`x \cdot 1=x`
+* **Multiplicative Property of Zero** is when the product of any number and zero is always zero. For example, :math:`x*0=0`.
+* **Multiplicative Inverse** is when the product of a number and the inverse of the number is 1. For example, :math:`\frac{1}{2} \cdot 2 = \frac{2}{2} = 1`.
 
 Lesson 4: The Distributive Property
 -------------------------------------
