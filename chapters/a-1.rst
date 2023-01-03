@@ -1,7 +1,7 @@
 Chapter 1: Expressions, Equations, and Functions
 ====================================================
 
-This is the review chapter. We have learned everything here in Algebra 1A.
+This is the review chapter. 
 
 ----
 
@@ -65,14 +65,69 @@ Lesson 3: Properties of Numbers
 Lesson 4: The Distributive Property
 -------------------------------------
 
+.. rubric:: Lesson Terms
+
+* The **Distributive Property** is when you break down an equation to make it easier to multiply. For example, :math:`7(1+5+7)` can be written as :math:`7 \cdot 1+7 \cdot 5 + 7 \cdot 7`.
+
+.. rubric:: Mental Math
+
+We can use the Distributive Property to do mental math. For example we can find the product of :math:`45 \cdot 4` by changing it to :math:`4(40 - 5)`. We then can use the Distributive Property to solve.
+
+.. rubric:: With Variables
+
+We can use the Distributive Property to solve an equation like this: :math:`3a = 2(a+8)` we could use the Distributive Property to make it like this: :math:`3a = 2a+16` then :math:`a=16`. As you can see, the Distributive Property is very useful.
+
+
 Lesson 5: Equations
 -------------------------------------
+
+.. rubric:: Lesson Terms
+
+* An **Open Sentence** does not have an equal sign. For example, :math:`6x+9y`.
+* An **Equations** has an equal sign. For example, :math:`6x+9y=56`.
+* A **set** is a collection of numbers and objects. These objects are called **elements**.
+* A **replacement set** is a set to replace the variables.
+* A **solution set** is the set of elements from the replacement set that make an open sentence true.
+
+.. rubric:: Use a replacement set
+
+We can try to replace the variables with many numbers. The numbers that work are added to the solution set.
+
 
 Lesson 6: Relations
 -------------------------------------
 
+.. rubric:: Lesson Terms
+
+* An **ordered pair** is a set of numbers, or coordinates, written in the form (x, y).
+* The x-value, called the **x-coordinate**, represents the horizontal placement of the point.
+* The y-value, called the **y-coordinate**, represents the vertical placement of the point.
+* A set of ordered pairs is called a **relation**.
+* A **mapping** shows how the ordered pairs are paired.
+* A **domain** is x
+* A **range** is y
+
 Lesson 7: Functions
 -------------------------------------
 
+* A **function** has exactly one output for every input. Often written with *f(x)*
+
+.. rubric:: Find Functions
+
+One way to check if something is a function is to check if there is only one output (range) for every input (domain). Another way to check if something is a function is to use the vertical line test. This is if you put a vertical line anywhere on a graphed function. If the line only touches the graphed function once, it is a function.
+
 Lesson 8: Interpreting Graphs of Functions
 ---------------------------------------------------------
+
+.. rubric:: Lesson Terms
+
+* An **intercept** is where a line intercepts an axis.
+* The **y-intercept** is where the line intercepts the y-axis.
+* The **x-intercept** is where the line intercepts the x-axis.
+* **Positive** parts of a line is when it is above the x-axis
+* **Negative** parts of a line is when it is below the x-axis
+
+.. rubric:: Liner or Nonlinear Lines
+
+If a line is curved then the line is nonlinear. If the line is not curved then the line is linear.
+
