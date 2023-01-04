@@ -8,14 +8,35 @@ Chapter Summery
 Lesson 1: Writing Equations
 ------------------------------------------
 
+.. rubric:: Convert a Sentence to an Equation
+
+*The car can go five miles per gallon of gas. The car drove for fifty five miles.* We can convert this into algebraic equation to solve. By solving :math:`5g=55`  we know that the car got 11 gallons of gas.
+
+
 Lesson 2: Solving One-Step Equations
 ------------------------------------------
+
+.. rubric:: Lesson Terms
+
+* **Equivalent equations** are equations that have the same solution.
+
+.. rubric:: Solve by adding
+
+.. math:: 
+
+    \begin{flalign}
+        f(u) & =\sum_{j=1}^{n} x_jf(u_j)&\\
+            & =\sum_{j=1}^{n} x_j \sum_{i=1}^{m} a_{ij}v_i&\\
+            & =\sum_{j=1}^{n} \sum_{i=1}^{m} a_{ij}x_jv_i
+    \end{flalign}
+
+
 
 Lesson 3: Solving Multi-Step Equations
 ------------------------------------------
 
 Lesson 4: Solving Equations with the Variable on Each Side
-------------------------------------------------------------------
+--------------------------------------------------------------
 
 
 Lesson 5: Solving Equations Involving Absolute Value
