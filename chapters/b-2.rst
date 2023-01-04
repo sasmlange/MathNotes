@@ -25,12 +25,37 @@ Lesson 2: Solving One-Step Equations
 .. math:: 
 
     \begin{flalign}
-        f(u) & =\sum_{j=1}^{n} x_jf(u_j)&\\
-            & =\sum_{j=1}^{n} x_j \sum_{i=1}^{m} a_{ij}v_i&\\
-            & =\sum_{j=1}^{n} \sum_{i=1}^{m} a_{ij}x_jv_i
+        x-22 & = 23
+         +22 & = +22
     \end{flalign}
 
 
+.. rubric:: Solve by subtracting
+
+.. math:: 
+
+    \begin{flalign}
+        x+78 & = 56
+         -78 & = -78
+    \end{flalign}
+
+.. rubric:: Solve by mutiplying
+
+.. math:: 
+
+    \begin{flalign}
+        \frac{x}{7} & = 56
+            \cdot 7 & = \cdot 7
+    \end{flalign}
+
+.. rubric:: Solve by dividing
+
+.. math:: 
+
+    \begin{flalign}
+        \frac{x}{7} & = 56
+            \cdot 7 & = \cdot 7
+    \end{flalign}
 
 Lesson 3: Solving Multi-Step Equations
 ------------------------------------------
