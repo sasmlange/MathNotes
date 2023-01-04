@@ -53,12 +53,14 @@ Lesson 2: Solving One-Step Equations
 .. math:: 
 
     \begin{flalign}
-        \frac{x}{7} & = 56
-            \cdot 7 & = \cdot 7
+                     10x & = 56
+      \cdot \frac{1}{10} & = \cdot \frac{1}{10}
     \end{flalign}
 
 Lesson 3: Solving Multi-Step Equations
 ------------------------------------------
+
+
 
 Lesson 4: Solving Equations with the Variable on Each Side
 --------------------------------------------------------------
