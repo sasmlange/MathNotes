@@ -89,6 +89,8 @@ To solve an equation with a variables on both sides, you need to move all the va
                     3x+20 & = 2x-7
                       -2x & = -2x
                      x+20 & = -7
+                      -20 & = -20
+                        x & = -27                     
     \end{flalign}
 
 Lesson 5: Solving Equations Involving Absolute Value
