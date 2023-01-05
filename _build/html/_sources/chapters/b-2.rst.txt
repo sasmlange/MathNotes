@@ -60,11 +60,36 @@ Lesson 2: Solving One-Step Equations
 Lesson 3: Solving Multi-Step Equations
 ------------------------------------------
 
+.. rubric:: Lesson Terms
 
+* A **multi-step equations** is a equation that needs you to do more than one step to solve.
+* **Consecutive integers** are integers in order, such as 10, 11, and 12 or :var:`x`, :var:`x` + 1, and :var:`x` + 2.
+* **Number theory** is the study of numbers.
+
+.. rubric:: Example
+
+.. math::
+
+    \begin{flalign}
+                    10x+10 & = 50
+                       -10 & = 50-10  
+                       10x & = 40
+        \cdot \frac{1}{10} & = \cdot \frac{1}{10}
+                         x & = 4
+    \end{flalign}
 
 Lesson 4: Solving Equations with the Variable on Each Side
 --------------------------------------------------------------
 
+.. rubric:: Solve
+
+To solve an equation with a variables on both sides, you need to move all the variables to one side. 
+
+    \begin{flalign}
+                    3x+20 & = 2x-7
+                      -2x & = -2x
+                     x+20 & = -7
+    \end{flalign}
 
 Lesson 5: Solving Equations Involving Absolute Value
 --------------------------------------------------------------
